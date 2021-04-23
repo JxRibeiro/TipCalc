@@ -1,6 +1,5 @@
 # Tip calculator
 import random
-import numpy as np
 
 def tipcalc(bill):
     
